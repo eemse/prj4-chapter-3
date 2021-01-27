@@ -1,0 +1,11 @@
+@charcet "UTF-8";
+.body
+{background-color:#484343;
+font-family: monospace;Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";} 
+.container
+{background-color:#9B59B6;
+	padding: 10px;
+margin-left: 80px;
+margin-right: 80px;
+border:5px solid #0000FF;} 
+#text{font-weight:900;} 
